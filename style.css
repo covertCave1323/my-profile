@@ -1,0 +1,21 @@
+#app{
+    background-color: aliceblue;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#game{
+    background-color: lightcoral;
+}
+
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
